@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#71bb4d</color>
+    <!--menuNav-->
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="textColorSecondary">#f0f0f0</color>
+    <!-- bg-->
+    <color name="bg_app">#222222</color>
+</resources>
