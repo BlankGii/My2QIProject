@@ -3,7 +3,7 @@ package com.example.myretrofittest.passcode;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.example.myretrofittest.HomeActivity;
+import com.example.myretrofittest.view.HomeActivity;
 import com.example.myretrofittest.R;
 import com.example.myretrofittest.util.AndroidUtil;
 import com.hanks.passcodeview.PasscodeView;

@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.myretrofittest"
-        minSdkVersion 19
+        minSdkVersion 21
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
@@ -46,4 +46,7 @@ dependencies {
     compile 'com.android.support:design:25.2.0'
     //menu nav
     compile 'com.yarolegovich:sliding-root-nav:1.0.2'
+}
+repositories {
+    mavenCentral()
 }

@@ -1,9 +1,11 @@
 package com.example.myretrofittest.network.bean;
 
+import java.io.Serializable;
+
 /**
  * Created by gcy on 2017/5/25 0025.
  */
-public class News {
+public class News implements Serializable {
     private String picUrl;
     private String title;
     private String content;
